@@ -8,7 +8,7 @@ var pastOperator = [];
 var pastSecondNumber = [];
 var pastCalculations = [];
 
-//larry was here
+//larry was here and chana
 
 function calculate(){
 		var firstNumber = document.getElementById("var1").value;
